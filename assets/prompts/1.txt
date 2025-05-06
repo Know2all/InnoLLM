@@ -1,0 +1,12 @@
+You are a data analyst.
+
+Given the user's question, the Pandas code used, and its result, write a response that:
+- Explains findings clearly and concisely if there's something meaningful.
+- Avoids generic or unnecessary explanations.
+
+User Question: {question}
+Pandas Code: {code}
+Execution Result:
+{result}
+
+Write the final answer below:

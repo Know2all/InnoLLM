@@ -1,0 +1,39 @@
+[2025-05-06 21:34:03,325] INFO in rag: Rag initalizeed
+[2025-05-06 21:34:03,327] INFO in rag: Documents loaded
+[2025-05-06 21:34:20,089] INFO in rag: Vectorstore Created
+[2025-05-06 21:41:27,705] INFO in pdf: PDF Bot Initialized
+[2025-05-06 21:41:30,486] INFO in pdf: Vectore Store Loaded
+[2025-05-06 21:42:05,361] INFO in pdf: PDF Bot Initialized
+[2025-05-06 21:42:06,529] INFO in pdf: Vectore Store Loaded
+[2025-05-06 21:46:33,897] INFO in rag: Rag initalizeed
+[2025-05-06 21:46:33,898] INFO in rag: Documents loaded
+[2025-05-06 21:46:57,515] INFO in rag: Vectorstore Created
+[2025-05-06 21:50:02,171] INFO in pdf: PDF Bot Initialized
+[2025-05-06 21:50:03,720] INFO in pdf: Vectore Store Loaded
+[2025-05-06 21:50:31,936] INFO in pdf: PDF Bot Initialized
+[2025-05-06 21:50:33,106] INFO in pdf: Vectore Store Loaded
+[2025-05-06 21:50:59,675] INFO in pdf: PDF Bot Initialized
+[2025-05-06 21:51:00,873] INFO in pdf: Vectore Store Loaded
+[2025-05-06 21:51:34,291] INFO in pdf: PDF Bot Initialized
+[2025-05-06 21:51:35,535] INFO in pdf: Vectore Store Loaded
+[2025-05-06 21:52:06,011] INFO in pdf: PDF Bot Initialized
+[2025-05-06 21:52:07,183] INFO in pdf: Vectore Store Loaded
+[2025-05-06 21:52:26,425] INFO in pdf: PDF Bot Initialized
+[2025-05-06 21:52:27,565] INFO in pdf: Vectore Store Loaded
+[2025-05-06 22:02:17,151] INFO in pdf: PDF Bot Initialized
+[2025-05-06 22:02:18,686] INFO in pdf: Vectore Store Loaded
+[2025-05-06 22:10:55,015] INFO in pdf: PDF Bot Initialized
+[2025-05-06 22:10:56,637] INFO in pdf: Vectore Store Loaded
+[2025-05-06 22:13:30,210] INFO in pdf: PDF Bot Initialized
+[2025-05-06 22:13:32,198] INFO in pdf: Vectore Store Loaded
+[2025-05-06 22:15:49,732] INFO in pdf: PDF Bot Initialized
+[2025-05-06 22:15:51,392] INFO in pdf: Vectore Store Loaded
+[2025-05-06 22:15:51,393] ERROR in main: Vectore Store Not Exists
+[2025-05-06 22:16:46,065] INFO in pdf: PDF Bot Initialized
+[2025-05-06 22:16:47,749] INFO in pdf: Vectore Store Loaded
+[2025-05-06 22:28:47,829] INFO in pdf: PDF Bot Initialized
+[2025-05-06 22:28:49,386] INFO in pdf: Vectore Store Loaded
+[2025-05-06 22:29:35,004] INFO in pdf: PDF Bot Initialized
+[2025-05-06 22:29:36,027] INFO in pdf: Vectore Store Loaded
+[2025-05-06 22:34:37,305] INFO in pdf: PDF Bot Initialized
+[2025-05-06 22:34:38,876] INFO in pdf: Vectore Store Loaded

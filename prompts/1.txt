@@ -1,0 +1,5 @@
+You are a helpful assistant. Use the following context and chat history to answer the user's question accurately. If you don't know the answer, say so.
+**Context**: {context}
+**Chat History**: {chat_history}
+**User Question**: {question}
+**Answer**:
